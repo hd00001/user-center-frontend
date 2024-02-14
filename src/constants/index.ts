@@ -1,6 +1,4 @@
-export const SYSTEM_LOGO = "https://636f-codenav-8grj8px727565176-1256524210.tcb.qcloud.la/img/logo.png";
+export const SYSTEM_LOGO = "https://pic4.zhimg.com/06e6c913ccfbd9b605fe78bec505784d_r.jpg";
 
-/**
- * 知识星球文档地址
- */
+
 export const PLANET_LINK = "https://docs.qq.com/doc/DUG93dVNHbVZjZXpo";
