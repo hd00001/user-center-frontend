@@ -1,4 +1,4 @@
-export const SYSTEM_LOGO = "https://pic4.zhimg.com/06e6c913ccfbd9b605fe78bec505784d_r.jpg";
+export const SYSTEM_LOGO = "https://i.postimg.cc/T3MtL5j7/icon-192x192.png";
 
 
 export const PLANET_LINK = "https://docs.qq.com/doc/DUG93dVNHbVZjZXpo";
